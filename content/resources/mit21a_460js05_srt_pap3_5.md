@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c98f3ce4-ba55-0e44-e04a-45e02ab70f21
 resourcetype: Document
 title: Short Paper Topic
 uid: 19ae9822-4620-29a4-40e8-7032090e92c1
