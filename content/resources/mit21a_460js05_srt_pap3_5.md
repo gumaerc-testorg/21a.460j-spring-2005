@@ -5,6 +5,7 @@ file: /courses/21a-460j-medicine-religion-and-politics-in-africa-and-the-african
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Short Paper Topic
 uid: 19ae9822-4620-29a4-40e8-7032090e92c1
 ---
 This resource contains the information regarding Short Paper Topic.
-

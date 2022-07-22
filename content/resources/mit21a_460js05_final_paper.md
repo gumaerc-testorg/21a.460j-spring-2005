@@ -5,6 +5,7 @@ file: /courses/21a-460j-medicine-religion-and-politics-in-africa-and-the-african
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Final Paper Topic
 uid: 12312720-d616-ab94-9412-96a1925e1278
 ---
 This resource contains the information regarding Final Paper Topic.
-
