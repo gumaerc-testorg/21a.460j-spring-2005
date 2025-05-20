@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Final Paper Topic.
-file: /ol-ocw-studio-app/courses/21a-460j-medicine-religion-and-politics-in-africa-and-the-african-diaspora-spring-2005/12312720d616ab94941296a1925e1278_MIT21A_460JS05_Final_Paper.pdf
+file: /courses/21a-460j-medicine-religion-and-politics-in-africa-and-the-african-diaspora-spring-2005/12312720d616ab94941296a1925e1278_MIT21A_460JS05_Final_Paper.pdf
 file_size: 102940
 file_type: application/pdf
 learning_resource_types:
